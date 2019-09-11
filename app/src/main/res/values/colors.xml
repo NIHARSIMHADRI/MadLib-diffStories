@@ -4,4 +4,6 @@
     <color name="colorPrimaryDark">#00574B</color>
     <color name="colorAccent">#D81B60</color>
     <color name="storyColor">#F84207</color>
+    <color name="oceanColor">#0386F8</color>
+    <color name="dessertColor">#643E07</color>
 </resources>
